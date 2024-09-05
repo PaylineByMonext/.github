@@ -1,6 +1,8 @@
 ## 🙋‍♀️ Welcome to the [Monext](https://www.monext.fr/) Developer Hub on GitHub
-French financial services provider. Our spearhead? Facilitating your payments, with or without a card, whether online, on your mobile or in-store.
- 
+![monext-retail](https://github.com/user-attachments/assets/6800e56a-7c9f-4517-809a-ac407d908a87)
+
+
+French financial services provider. Our spearhead? Facilitating your payments, with or without a card, whether online, on your mobile or in-store. 
 This page contains the source code for all of our libraries, SDKs, plug-ins, and Open API specifications. You will find all the necessary resources to help you integrate with our platform. Feel free to explore our repositories and contribute if you'd like!
  
 ## 📜 Documentation
